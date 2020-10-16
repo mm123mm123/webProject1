@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f6198322-aa62-4785-883b-168dcf8b8c23" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1iuEzEBJqPjN0m6g0AjllM3SO85" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.HTML" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\jirengu\ccc\12\src" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f6198322-aa62-4785-883b-168dcf8b8c23" name="Default Changelist" comment="" />
+      <created>1602749337006</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602749337006</updated>
+      <workItem from="1602749338067" duration="3878000" />
+      <workItem from="1602753745187" duration="363000" />
+      <workItem from="1602754601933" duration="2758000" />
+      <workItem from="1602757398985" duration="2615000" />
+      <workItem from="1602761196192" duration="415000" />
+      <workItem from="1602761632083" duration="709000" />
+      <workItem from="1602762359681" duration="311000" />
+      <workItem from="1602762689065" duration="2458000" />
+      <workItem from="1602765171066" duration="34000" />
+      <workItem from="1602811358526" duration="8586000" />
+      <workItem from="1602819989993" duration="4000" />
+      <workItem from="1602832859242" duration="14260000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="630" y="185" key="#HTTP_Proxy" timestamp="1602756378092">
+      <screen x="0" y="0" width="1638" height="960" />
+    </state>
+    <state x="630" y="185" key="#HTTP_Proxy/0.0.1638.960@0.0.1638.960" timestamp="1602756378092" />
+    <state x="638" y="208" key="FileChooserDialogImpl" timestamp="1602762018803">
+      <screen x="0" y="0" width="1638" height="960" />
+    </state>
+    <state x="638" y="208" key="FileChooserDialogImpl/0.0.1638.960@0.0.1638.960" timestamp="1602762018803" />
+    <state x="151" y="132" width="1006" height="730" key="SettingsEditor" timestamp="1602811949654">
+      <screen x="0" y="0" width="1638" height="960" />
+    </state>
+    <state x="151" y="132" width="1006" height="730" key="SettingsEditor/0.0.1638.960@0.0.1638.960" timestamp="1602811949654" />
+    <state x="789" y="382" width="689" height="423" key="org.intellij.images.editor.actions.BackgroundImageDialog" timestamp="1602762725878">
+      <screen x="0" y="0" width="1638" height="960" />
+    </state>
+    <state x="789" y="382" width="689" height="423" key="org.intellij.images.editor.actions.BackgroundImageDialog/0.0.1638.960@0.0.1638.960" timestamp="1602762725878" />
+    <state x="791" y="226" width="672" height="678" key="search.everywhere.popup" timestamp="1602811564816">
+      <screen x="0" y="0" width="1638" height="960" />
+    </state>
+    <state x="791" y="226" width="672" height="678" key="search.everywhere.popup/0.0.1638.960@0.0.1638.960" timestamp="1602811564816" />
+  </component>
+</project>
